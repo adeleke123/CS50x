@@ -25,3 +25,4 @@ Here is a breakdown of what each learning week will entail.
 - **For JavaScript and Python**
     - https://codecombat.com/
 - **Super simple Walk Through pdf for Songs Week 5: Data Structures Psets!**
+- **Super simple Walk Through pdf for Songs Week 7: SQL Psets!**
